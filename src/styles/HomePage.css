@@ -1,0 +1,13 @@
+.dropdown {
+    top: 42px;
+    left: 0px;
+    right: 0px;
+    max-height: 200px;
+    overflow-y: scroll;
+    z-index: 100;
+}
+
+.user-hover:hover {
+    background-color: rgb(229, 231, 235)!important;
+    cursor: pointer;
+}
